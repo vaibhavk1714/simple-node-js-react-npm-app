@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">WELCOME TO OUR PRODUCT EAGLEI</h1>
         </header>
         <p className="App-intro">
-          To start with, edit src/App.js and save to reload.
+          To start with, edit src/App and save to reload.
         </p>
       </div>
     );
