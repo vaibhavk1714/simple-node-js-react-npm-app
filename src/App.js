@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">WELCOME TO OUR PRODUCT EAGLEI</h1>
         </header>
         <p className="App-intro">
-           Welcome to our website
+           Welcome to our project
         </p>
       </div>
     );
